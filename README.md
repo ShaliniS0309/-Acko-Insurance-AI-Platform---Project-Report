@@ -1,4 +1,4 @@
-# 🛡️ Acko Insurance AI Platform - Project Report
+# 🛡️ Acko Insurance AI Platform 
 
 ## 1. Executive Summary
 
